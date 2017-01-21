@@ -1,2 +1,2 @@
 # Algorithm
-Rough solutions for some algorithms learnt.
+Practice codes for Algorithm course. (COMP2711).
